@@ -1,0 +1,9 @@
+.Title span {
+    opacity: 0;
+    transition: all ease-in-out .3s;
+    cursor: pointer;
+}
+
+.Title:hover span {
+    opacity: 1;
+}
